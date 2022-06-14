@@ -8,6 +8,7 @@
 </p>
 
 ## Introduction
+A fork of the official laravel passport repo to include suport for mongodb. 
 
 Laravel Passport is an OAuth2 server and API authentication package that is simple and enjoyable to use.
 
